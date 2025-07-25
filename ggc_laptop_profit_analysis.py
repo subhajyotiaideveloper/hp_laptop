@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # File path
-EXCEL_PATH = r"C:\ggc\GGC_PROJECTS_old\data\GGC_Laptop_Profit_Sheet_2025\GGC_Laptop_Profit_Sheet.xlsx"
+EXCEL_PATH = r"GGC_Laptop_Profit_Sheet.xlsx"
 
 # Sheet and column mapping (aligned with user-provided headers)
 # NOTE: If your actual Excel file uses slightly different header spellings, feel free to
