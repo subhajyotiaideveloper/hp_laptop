@@ -13,7 +13,7 @@ data_config = {
         "Date of Purchase", "Month", "Branch", "Vendor Name", "Model No.", "Serial No", "Part Code", "Bill No.", "Price (Excuding GST)", "Extra Support Committed", "HP ST Support"
     ],
     "Orginal Sale": [
-        "Date of Sales", "Month", "Branch", "Party Name", "Model No.", "Bill No.", "Part Code", "Price (Excuding GST)", "HP SO Support"
+         "Date of Sales", "Month", "Branch", "Party Name", "Model No.", "Serial No", "Serial No.", "Bill No.", "Part Code", "Price (Excuding GST)", "HP SO Support"
     ],
     "Tally-II Sale": [
         "Month", "Branch", "Party Name", "Model No.", "Serial No.", "Part Code", "HP SO Support"
